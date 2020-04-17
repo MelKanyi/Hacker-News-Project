@@ -19,6 +19,23 @@ The goal is to build a text classification model that will predict popularity of
 
 This dataset was obtained from : https://www.kaggle.com/sohier/beyond-queries-exploring-the-bigquery-api
 
+## Experimental Design
+
+* Loading & Viewing the Data
+* Data Cleaning
+* Exploratory Data Analysis:
+      - Univariate
+      - Bivariate
+      - Multivariate
+* Feature Engineering
+* Modelling:
+      - Recurrent Neural Network
+      - Naive Bayes Classifer
+      - Support Vector Classifier
+* Tuning the best model
+* Challenge the solution
+* Conclusion
+
 # Environment and Tools
 
 1. Google Colab Notebook
@@ -32,5 +49,14 @@ This dataset was obtained from : https://www.kaggle.com/sohier/beyond-queries-ex
 # Bugs
 No known bugs
 
-# License Information
-copyright (c), 2020
+## Support and contact details
+
+{Any issues, questions, ideas, concerns or contributions to the code are highly encouraged.
+
+ Contacts : kanyimelissa2000@gmail.com }
+ 
+### License
+
+*{MIT License.  See below for more details on licensing.}*
+
+Copyright (c) {2020} **{Moringa School Data Science Core 2}**
